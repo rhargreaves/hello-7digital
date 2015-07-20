@@ -1,2 +1,2 @@
-# hello-7digital
+# Hello 7digital
 Site for testing the 7digital API
